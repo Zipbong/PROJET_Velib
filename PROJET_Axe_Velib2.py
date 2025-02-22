@@ -16,7 +16,7 @@ import branca.colormap as cm
 import os
 
 #######
-st.set_option('wideMode' , True)
+#st.set_option('wideMode' , True)
 
 # Nettoyage des cartes du session_state
 map_keys = ["m_capa1", 'heatmapcapacityvelib', 'map_poi', 'map_surface', 'map_pop']
