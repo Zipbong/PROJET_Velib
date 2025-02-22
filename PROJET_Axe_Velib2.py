@@ -49,9 +49,9 @@ dfvelib = load_data_json(chemin_json)
 arrondissements = load_data_gpd(chemin_geojson)
 
 # Afficher les premières lignes des DataFrames pour vérifier
-st.write(Paris_ref.head())
-st.write(dfvelib.head())
-st.write(arrondissements.head())
+#st.write(Paris_ref.head())
+#st.write(dfvelib.head())
+#st.write(arrondissements.head())
 
 
 
